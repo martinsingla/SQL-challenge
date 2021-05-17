@@ -1,1 +1,1 @@
-# SQL-challenge
+# PosgreSQL-challenge
