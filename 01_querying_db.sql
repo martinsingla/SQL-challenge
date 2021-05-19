@@ -58,6 +58,11 @@ FROM employees
 GROUP BY last_name
 ORDER BY count DESC;
 
+--SEARCH YOUR ID NUMBER: 499942 --
+SELECT * FROM employees
+WHERE emp_no = 499942;
+--hahaha aparently I am April Foolsday, an employee hired in 1997 xD
+
 
 
 
